@@ -1,7 +1,15 @@
 # Towerofhanoi
 
-**Description:** Animated Tower of Hanoi game.Creates a DOM element for each disk and peg.Positions the disks and pegs on the game board.Recursively moves the disks from one peg to another, following the rules of the Tower of Hanoi game.Plots the current state of the game after each move.This code can be used to create a simple and educational game that teaches players about the Tower of Hanoi puzzle.
+**Description:**
 
-**Future Improvements:** Add a "reset" button.Add support for multiple peg configurations.Add a "hint" button that would give the user a hint on the next move to make.
+The Tower of Hanoi is a classic puzzle where the objective is to move a stack of disks from one peg to another .
 
-**Link:** https://yogesh-mca2023.github.io/Tower/
+**How to run the code:**
+
+***Step1:*** Save the HTML file with .html extension.
+
+***Step2:*** Click the "Go Live" button.A new browser window will open, displaying Hanoi-Towers puzzle.
+
+**Future Enchancement:**
+
+Implement a timer to track the time taken to solve the Tower of Hanoi puzzle.
